@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ScreenShare.Irepositiories\ScreenShare.IRepositories.csproj" />
+    <ProjectReference Include="..\ScreenShare.Option\ScreenShare.Option.csproj" />
+    <ProjectReference Include="..\ScreenShare.Repositories\ScreenShare.Repositories.csproj" />
+    <ProjectReference Include="..\ScreenShare.Utils\ScreenShare.Utils.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ScreenShare.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:ScreenShare.WebAPI.Controllers.AppController.#ctor(ScreenShare.Irepositiories.IApp_Respositoriy)">
+            <summary>
+            
+            </summary>
+            <param name="repository"></param>
+        </member>
+        <member name="M:ScreenShare.WebAPI.Controllers.AppController.GetList(System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="pageIndex"></param>
+            <param name="PageSize"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ScreenShare.WebAPI.Controllers.AppController.AddData">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ScreenShare.WebAPI.Controllers.InitController.InitTable">
+            <summary>
+            初始化DB 和表
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

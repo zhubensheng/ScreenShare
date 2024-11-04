@@ -1,0 +1,373 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Irepositiories\\ScreenShare.IRepositories.csproj": {}
+  },
+  "projects": {
+    "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Common\\ScreenShare.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Common\\ScreenShare.Common.csproj",
+        "projectName": "ScreenShare.Common",
+        "projectPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Common\\ScreenShare.Common.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.DBMain\\ScreenShare.DBMain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.DBMain\\ScreenShare.DBMain.csproj",
+        "projectName": "ScreenShare.DBMain",
+        "projectPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.DBMain\\ScreenShare.DBMain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.DBMain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Common\\ScreenShare.Common.csproj": {
+                "projectPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Common\\ScreenShare.Common.csproj"
+              },
+              "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Option\\ScreenShare.Option.csproj": {
+                "projectPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Option\\ScreenShare.Option.csproj"
+              },
+              "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Utils\\ScreenShare.Utils.csproj": {
+                "projectPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Utils\\ScreenShare.Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.170, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Irepositiories\\ScreenShare.IRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Irepositiories\\ScreenShare.IRepositories.csproj",
+        "projectName": "ScreenShare.IRepositories",
+        "projectPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Irepositiories\\ScreenShare.IRepositories.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Irepositiories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.DBMain\\ScreenShare.DBMain.csproj": {
+                "projectPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.DBMain\\ScreenShare.DBMain.csproj"
+              },
+              "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Model\\ScreenShare.Model.csproj": {
+                "projectPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Model\\ScreenShare.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Model\\ScreenShare.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Model\\ScreenShare.Model.csproj",
+        "projectName": "ScreenShare.Model",
+        "projectPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Model\\ScreenShare.Model.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.170, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Option\\ScreenShare.Option.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Option\\ScreenShare.Option.csproj",
+        "projectName": "ScreenShare.Option",
+        "projectPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Option\\ScreenShare.Option.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Option\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Utils\\ScreenShare.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Utils\\ScreenShare.Utils.csproj",
+        "projectName": "ScreenShare.Utils",
+        "projectPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Utils\\ScreenShare.Utils.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\开发程序\\程序代码\\屏显优享\\ScreenShare\\ScreenShare.Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

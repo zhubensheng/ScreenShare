@@ -1,0 +1,11 @@
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Dto\bin\Debug\net8.0\ScreenShare.Dto.deps.json
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Dto\bin\Debug\net8.0\ScreenShare.Dto.dll
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Dto\bin\Debug\net8.0\ScreenShare.Dto.pdb
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Dto\obj\Debug\net8.0\ScreenShare.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Dto\obj\Debug\net8.0\ScreenShare.Dto.AssemblyInfoInputs.cache
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Dto\obj\Debug\net8.0\ScreenShare.Dto.AssemblyInfo.cs
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Dto\obj\Debug\net8.0\ScreenShare.Dto.csproj.CoreCompileInputs.cache
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Dto\obj\Debug\net8.0\ScreenShare.Dto.dll
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Dto\obj\Debug\net8.0\refint\ScreenShare.Dto.dll
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Dto\obj\Debug\net8.0\ScreenShare.Dto.pdb
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Dto\obj\Debug\net8.0\ref\ScreenShare.Dto.dll

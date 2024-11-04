@@ -1,0 +1,12 @@
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Model\bin\Debug\net8.0\ScreenShare.Model.deps.json
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Model\bin\Debug\net8.0\ScreenShare.Model.dll
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Model\bin\Debug\net8.0\ScreenShare.Model.pdb
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Model\obj\Debug\net8.0\ScreenShare.Model.csproj.AssemblyReference.cache
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Model\obj\Debug\net8.0\ScreenShare.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Model\obj\Debug\net8.0\ScreenShare.Model.AssemblyInfoInputs.cache
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Model\obj\Debug\net8.0\ScreenShare.Model.AssemblyInfo.cs
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Model\obj\Debug\net8.0\ScreenShare.Model.csproj.CoreCompileInputs.cache
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Model\obj\Debug\net8.0\ScreenShare.Model.dll
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Model\obj\Debug\net8.0\refint\ScreenShare.Model.dll
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Model\obj\Debug\net8.0\ScreenShare.Model.pdb
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Model\obj\Debug\net8.0\ref\ScreenShare.Model.dll

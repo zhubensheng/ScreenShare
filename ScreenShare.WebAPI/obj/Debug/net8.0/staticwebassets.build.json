@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "28ygWA37SOGcGKDhGU1mWY+0pxfU7/3SlTKNj/LRPgw=",
+  "Source": "ScreenShare.WebAPI",
+  "BasePath": "_content/ScreenShare.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

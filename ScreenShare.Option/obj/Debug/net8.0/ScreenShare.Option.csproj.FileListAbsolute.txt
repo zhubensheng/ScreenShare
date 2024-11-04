@@ -1,0 +1,11 @@
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Option\bin\Debug\net8.0\ScreenShare.Option.deps.json
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Option\bin\Debug\net8.0\ScreenShare.Option.dll
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Option\bin\Debug\net8.0\ScreenShare.Option.pdb
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Option\obj\Debug\net8.0\ScreenShare.Option.GeneratedMSBuildEditorConfig.editorconfig
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Option\obj\Debug\net8.0\ScreenShare.Option.AssemblyInfoInputs.cache
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Option\obj\Debug\net8.0\ScreenShare.Option.AssemblyInfo.cs
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Option\obj\Debug\net8.0\ScreenShare.Option.csproj.CoreCompileInputs.cache
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Option\obj\Debug\net8.0\ScreenShare.Option.dll
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Option\obj\Debug\net8.0\refint\ScreenShare.Option.dll
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Option\obj\Debug\net8.0\ScreenShare.Option.pdb
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.Option\obj\Debug\net8.0\ref\ScreenShare.Option.dll

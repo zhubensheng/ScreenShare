@@ -1,0 +1,12 @@
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.WeChat.Utils\bin\Debug\net8.0\ScreenShare.WeChat.Utils.deps.json
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.WeChat.Utils\bin\Debug\net8.0\ScreenShare.WeChat.Utils.dll
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.WeChat.Utils\bin\Debug\net8.0\ScreenShare.WeChat.Utils.pdb
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.WeChat.Utils\obj\Debug\net8.0\ScreenShare.WeChat.Utils.csproj.AssemblyReference.cache
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.WeChat.Utils\obj\Debug\net8.0\ScreenShare.WeChat.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.WeChat.Utils\obj\Debug\net8.0\ScreenShare.WeChat.Utils.AssemblyInfoInputs.cache
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.WeChat.Utils\obj\Debug\net8.0\ScreenShare.WeChat.Utils.AssemblyInfo.cs
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.WeChat.Utils\obj\Debug\net8.0\ScreenShare.WeChat.Utils.csproj.CoreCompileInputs.cache
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.WeChat.Utils\obj\Debug\net8.0\ScreenShare.WeChat.Utils.dll
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.WeChat.Utils\obj\Debug\net8.0\refint\ScreenShare.WeChat.Utils.dll
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.WeChat.Utils\obj\Debug\net8.0\ScreenShare.WeChat.Utils.pdb
+D:\开发程序\程序代码\屏显优享\ScreenShare\ScreenShare.WeChat.Utils\obj\Debug\net8.0\ref\ScreenShare.WeChat.Utils.dll
